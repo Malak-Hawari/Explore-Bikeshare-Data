@@ -43,5 +43,4 @@ This project was developed as part of my learning journey in data analysis. I’
 
 - **[Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002):** This project is part of the Udacity curriculum, which provided the foundational knowledge and data sets used in the analysis.
 - **[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/):** Used for understanding data manipulation techniques and implementing them in Python.
-- **Stack Overflow:** For troubleshooting various coding issues and getting community support during development.
 ***
