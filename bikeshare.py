@@ -174,3 +174,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#End of code thanking message
+print("Thanks for using!")
